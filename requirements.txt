@@ -4,8 +4,8 @@ pycaret==3.0.2
 IPython==8.10.0
 ipywidgets==7.6.5
 tqdm==4.64.1
-numpy==1.23.5
-pandas==1.5.3
+numpy==1.24
+pandas==2.0.0
 jinja2==3.1.2
 scipy==1.10.0
 joblib==1.2.0
